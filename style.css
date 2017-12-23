@@ -50,6 +50,15 @@ section {
   margin-bottom: 75px;
 }
 
-body {
-  padding-top: 70px;
+.navbar {
+  background-color: #f8f8f8;
+  border: 1px solid #e7e7e7;
+}
+
+.navbar-right a {
+  padding-left: 1.5rem;
+}
+
+.navbar-right a:nth-of-type(4) {
+  color: black;
 }
